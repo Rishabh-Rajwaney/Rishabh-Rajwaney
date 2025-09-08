@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Rishabh Rajwaney
+
+**Tagline:** _Building Myself_
+
+I'm a student passionate about learning and creating. Most of my work revolves around full-stack web development and C++, but I'm always open to exploring new technologies and ideas.
+
+- 🖥️ Fullstack Web Developer (learning & building)
+- 💻 C++ enthusiast
+- 🎶 music and movie enthusiast
+- 🚀 Open to learning more and collaborating on exciting projects
+
+Let's connect and grow together!
 
 <!--
-**Rishabh-Rajwaney/Rishabh-Rajwaney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Feel free to reach out or check out my other repositories!
 -->
