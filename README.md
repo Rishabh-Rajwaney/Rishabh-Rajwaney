@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Rishabh Rajwaney
 
-**Tagline:** _Building Myself_
 
 I'm a student passionate about learning and creating. Most of my work revolves around full-stack web development and C++, but I'm always open to exploring new technologies and ideas.
 
